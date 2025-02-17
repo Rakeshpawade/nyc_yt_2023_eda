@@ -73,14 +73,14 @@ Recommended versions:
 
 ## Outline
 The notebook is structured as follows:
-1. **Introduction**: Overview of the dataset and objectives.
-2. **Data Loading**: Reading Parquet files and inspecting data structure.
+1. **Introduction**: Overview of the problem, dataset and objectives.
+2. **Data Understanding**: Reading Parquet files and inspecting data structure.
+   - **Data Description**: Refer to Trip Records.
+3. **Data Preparation**: Import required libraries, load dataset and perform data sampling.
 3. **Data Cleaning**: Handling missing values, outliers, and data inconsistencies.
 4. **Exploratory Data Analysis**:
-   - Trip distribution by time and location
-   - Fare and distance analysis
-   - Identifying trends and anomalies
-5. **Data Visualization**: Using Matplotlib and Seaborn to create meaningful plots.
+   - **General EDA: Finding Patterns and Trends**: Analyze Numerical or Categorical variables.
+   - **Detailed EDA: Insights and Strategies**: Basic analyses for finding trends and patterns.
 6. **Conclusion**: Summarizing findings and potential improvements.
 
 ## Data Handling
